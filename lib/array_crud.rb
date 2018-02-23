@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  var array = ["hello","My","name","is"]
+  array = ["hello","My","name","is"]
 end
 
 def add_element_to_end_of_array(array, element)
